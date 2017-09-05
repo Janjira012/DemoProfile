@@ -1,13 +1,15 @@
 body {
     padding: 30px 100px;
     font-family: 'Pattaya', sans-serif;
-    background-color: lightskyblue;
+    background-image: url("paper.jpg");
+    background-color: #cccccc;
+    color:White;
+    
 }
 
 h1{
     font-family: 'Sriracha', cursive;
 }
-
 
 .img-circle {
     border-radius: 50%;
@@ -15,12 +17,6 @@ h1{
     margin: auto;
 }
 
-.img-sp {
-    padding: 20px;
-    border-radius: 80%;
-    width: 300px;
-    margin: auto;
-}
 
 .content {
     text-align: center;
@@ -32,11 +28,12 @@ h1{
     text-align: center;
 }
 
+ 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    width: 20%;
-    margin: 30px;
+    width: 80%;
+    margin: 40px;
     background-color: white;
 }
 
@@ -54,5 +51,5 @@ h1{
 }
 
 .fa {
-    margin: 10px;
+    margin: 20px;
 }
