@@ -15,6 +15,13 @@ h1{
     margin: auto;
 }
 
+.img-sp {
+    padding: 20px;
+    border-radius: 80%;
+    width: 300px;
+    margin: auto;
+}
+
 .content {
     text-align: center;
     padding: 20px;
@@ -38,7 +45,7 @@ h1{
 }
 
 .container {
-    padding: 2px 16px;
+    padding: 3px 16px;
 }
 
 .row {
