@@ -1,8 +1,13 @@
 body {
     padding: 30px 100px;
-    font-family: 'Prompt', sans-serif;
+    font-family: 'Pattaya', sans-serif;
     background-color: lightskyblue;
 }
+
+h1{
+    font-family: 'Sriracha', cursive;
+}
+
 
 .img-circle {
     border-radius: 50%;
